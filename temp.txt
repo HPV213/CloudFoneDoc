@@ -1,0 +1,17 @@
+
+Cloudfone->KHG: [1] thông tin cấu hình Bitrix24
+Note over KHG,Cloudfone: Server:"CloudFone"\nUsername:"CloudFone"\nPassword:"CloudFone"
+KHG->Bitrix24: [2] cấu hình trên Bitrix24
+Bitrix24->KHG: [3] thông tin cấu hình Cloudfone
+KHG->Cloudfone: [4] thông tin cấu hình Cloudfone
+Note over KHG,Cloudfone: Server:"Bitrix24"\nUsername:"Bitrix24"\nPassword:"Bitrix24"
+
+
+Note right of Cloudfone:
+
+
+Note right of Khách hàng : Khách hàng cấu hình kết nối đến Cloudfone trên Bitrix24
+
+
+
+Note over Cloudfone,Bitrix24: Tích Hợp CloudFone với Bitrix24

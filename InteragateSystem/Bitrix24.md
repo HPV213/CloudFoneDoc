@@ -3,7 +3,7 @@
 # **Tài liệu Tích Hợp CloudFone với Bitrix24**
 
 ## Sơ Đồ :
-![diagram](./Bitrix24_diagram.svg)
+![diagram](../svgimgs/Bitrix24_diagram.svg)
 ----
 
 ## Cấu hình kết nối trên Bitrix24:
